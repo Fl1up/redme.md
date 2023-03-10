@@ -7,5 +7,3 @@ def one_big_latter():
     a = input()
     """" ввод слов и вывод первых заглавных"""
     print(a.title())
-
-one_big_latter()
